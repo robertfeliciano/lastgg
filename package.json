@@ -1,0 +1,20 @@
+{
+  "name": "lastgg",
+  "version": "1.0.0",
+  "description": "discord bot for time spent on games",
+  "homepage": "https://github.com/robertfeliciano/lastgg#readme",
+  "bugs": {
+    "url": "https://github.com/robertfeliciano/lastgg/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertfeliciano/lastgg.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
